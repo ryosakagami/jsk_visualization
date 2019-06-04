@@ -18,11 +18,11 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>jsk_rqt_plugins</run_depend>
+  <!-- <run_depend>jsk_rqt_plugins</run_depend> -->
   <run_depend>jsk_rviz_plugins</run_depend>
-  <run_depend>jsk_interactive</run_depend>
-  <run_depend>jsk_interactive_marker</run_depend>
-  <run_depend>jsk_interactive_test</run_depend>
+  <!-- <run_depend>jsk_interactive</run_depend> -->
+  <!-- <run_depend>jsk_interactive_marker</run_depend> -->
+  <!-- <run_depend>jsk_interactive_test</run_depend> -->
   <export>
     <metapackage/>
   </export>

@@ -1,2 +1,15 @@
 *.pyc
 *~
+
+# OS generated files #
+######################
+.DS_Store?
+.directory
+ehthumbs.db
+Icon?
+Thumbs.db
+.nfs*
+
+# JetBrains related files #
+###########################
+.idea/
